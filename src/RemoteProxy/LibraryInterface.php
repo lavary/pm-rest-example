@@ -4,8 +4,8 @@ namespace RemoteProxy;
 
 use RemoteProxy\Annotation\Endpoint;
 
-interface BookInterface {
-    
+interface LibraryInterface
+{    
     /**
      * Return all books
      *
